@@ -8,6 +8,6 @@ Python solutions for Google Code Jam 2016.
 | # | Title | Solution | Status |
 |---| ----- | -------- | ------ |
 |A| [Counting Sheep](https://code.google.com/codejam/contest/6254486/dashboard#s=p0)| [Python](./Qualification-Round/Counting-Sheep/)| Complete |
-|B| [Revenge of the Pancakes](https://code.google.com/codejam/contest/6254486/dashboard#s=p1)| [Python](./Qualification-Round/Counting-Sheep/)| In Progress |
+|B| [Revenge of the Pancakes](https://code.google.com/codejam/contest/6254486/dashboard#s=p1)| [Python](./Qualification-Round/Revenge-of-the-Pancakes/)| In Progress |
 |C| [Coin Jam](https://code.google.com/codejam/contest/6254486/dashboard#s=p2)| [Python](#)| Incomplete |
 |D| [Fractiles](https://code.google.com/codejam/contest/6254486/dashboard#s=p3)| [Python](#)| Incomplete |
