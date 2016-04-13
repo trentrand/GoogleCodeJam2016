@@ -3,7 +3,7 @@
 #  See README.md for problem details
 #
 #  Created by Trent Rand on 4/8/16.
-#  Copyright © 2016 Trent Rand. All rights reserved.
+#  Copyright 2016 Trent Rand. All rights reserved.
 #
 
 foundNumbers = []
@@ -17,7 +17,7 @@ def record_digits(product):
             foundNumbers.append((product_string[digit]))
 
 
-for testcase in range(1, int(testCases)+1):
+for testcase in range(1, int(testCases) + 1):
     startingDigit = input()
 
     # Handle special case (0*n is always = 0)
